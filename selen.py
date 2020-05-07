@@ -346,7 +346,7 @@ for i in liste:
 
 
 # passw=driver.find_element_by_xpath("""//*[@id="user_pass"]""")
-# passw.send_keys("Serkaneren68.")
+# passw.send_keys("")
 #
 #
 # buton = driver.find_element_by_xpath("""//*[@id="wp-submit"]""")
